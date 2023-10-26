@@ -6,9 +6,8 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>学籍管理系统</title>
+	<title>管理系统</title>
 	<style>
-		/* 在这里添加CSS代码 */
 		body {
 			font-family: Arial, sans-serif;
 			background-color: #007BFF;
