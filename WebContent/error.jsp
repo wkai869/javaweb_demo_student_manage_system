@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>对不起，您请求的页面不存在!!!!
+	<h1>对不起，您请求的页面不存在!
 测试一下push推送github仓库</h1>
 </body>
 </html>
