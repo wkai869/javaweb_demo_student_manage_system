@@ -7,8 +7,5 @@
 <title>登录成功</title>
 </head>
 <body>	<h1>登录成功！！！！！！</h1>
-	sldmfsd
-	测试冲突
-	sdlcmsd 分支2
 </body>
 </html>
